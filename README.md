@@ -1,1 +1,1 @@
-# 👉 [thoughts.jacobjmarks.dev](https://thoughts.jacobjmarks.dev/)
+### 👉 Redirect to [jacobjmarks/thoughts](https://github.com/jacobjmarks/thoughts)
